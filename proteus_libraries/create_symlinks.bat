@@ -1,0 +1,1 @@
+mklink "C:\ProgramData\Labcenter Electronics\Proteus 8 Professional\LIBRARY\Home_automation.IDX" ".\Home_automation.IDX"
